@@ -1,6 +1,8 @@
 from flask import Flask, jsonify, request
 from flask_restful import Api, Resource
 from mongo_config import db
+import flask
+
 users = db["users"]
 
 
@@ -47,7 +49,7 @@ class Login(Resource):
                  "msg": " invalid email or password",
 
             }
-            return retJson
+            return retJson,400
 
 
         if not correct_pw:
@@ -56,7 +58,8 @@ class Login(Resource):
                  "msg": " invalid  password",
 
             }
-            return retJson
+
+            return retJson,400
        
         retJson = {
             "status": 200,
@@ -64,6 +67,6 @@ class Login(Resource):
            
 
         }
-        return jsonify(retJson)
+        return jsonify(retJson,200)
 
 

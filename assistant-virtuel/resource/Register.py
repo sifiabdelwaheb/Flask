@@ -4,8 +4,8 @@ from mongo_config import db
 users = db["users"]
 
 
-def UsersExist(username):
-    if users.find({"username": username}).count() == 0:
+def UsersExist(useremail):
+    if users.find({"useremail": useremail}).count() == 0:
         return False
     else:
         return True
@@ -20,10 +20,10 @@ class Register(Resource):
         adresse=postedData['adresse']
         useremail=postedData['useremail']
 
-        if UsersExist(username):
+        if UsersExist(useremail):
             retJson = {
                 "status": 404,
-                "message": " Username Exist"
+                "message": " useremail Exist"
             }
             return jsonify(retJson)
 
