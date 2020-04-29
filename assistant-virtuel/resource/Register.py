@@ -10,7 +10,6 @@ def UsersExist(useremail):
     else:
         return True
 
-
 class Register(Resource):
     def post(self):
         postedData = request.get_json()
@@ -25,15 +24,14 @@ class Register(Resource):
                 "status": 404,
                 "message": " useremail Exist"
             }
-            return jsonify(retJson)
+            return retJson,400
 
         users.insert({
             "username": username,
             "password": password,
             "useremail":useremail,
             "adresse":adresse,
-            "Own": 0,
-            "Debt": 0
+            
 
         })
         retJson = {
@@ -48,4 +46,4 @@ class Register(Resource):
             }
         }
 
-        return jsonify(retJson)
+        return jsonify(retJson,200)

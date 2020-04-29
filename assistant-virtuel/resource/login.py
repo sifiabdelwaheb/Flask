@@ -6,29 +6,24 @@ import flask
 users = db["users"]
 
 
-
-
 def verify_email(useremail):
     if users.find({"useremail": useremail}).count() == 0:
         return False
     else:
         return True
 
+
 def verify_pw(useremail, password):
     if users.find({"useremail": useremail}).count() == 0:
         return False
     else:
         pass_wd = users.find({
-        "useremail": useremail
-    })[0]['password']
+            "useremail": useremail
+        })[0]['password']
         if pass_wd == password:
             return True
         else:
             return False
-
-
-
-
 
 
 class Login(Resource):
@@ -37,6 +32,9 @@ class Login(Resource):
 
         useremail = postedData['useremail']
         password = postedData['password']
+        username = users.find({
+            "useremail": useremail
+        })[0]['username']
 
         # Step verify the username and pw match
         correct_pw = verify_pw(useremail, password)
@@ -46,27 +44,27 @@ class Login(Resource):
         if not correct_email:
             retJson = {
                 "status": 400,
-                 "msg": " invalid email or password",
+                "msg": " invalid email or password",
 
             }
-            return retJson,400
-
+            return retJson, 400
 
         if not correct_pw:
             retJson = {
                 "status": 400,
-                 "msg": " invalid  password",
+                "msg": " invalid  password",
 
             }
 
-            return retJson,400
-       
+            return retJson, 400
+
         retJson = {
             "status": 200,
             "msg": " Succes login",
-           
+
+            "username": username
+
+
 
         }
-        return jsonify(retJson,200)
-
-
+        return jsonify(retJson)
