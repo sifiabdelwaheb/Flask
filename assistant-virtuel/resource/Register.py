@@ -10,28 +10,30 @@ def UsersExist(useremail):
     else:
         return True
 
+
 class Register(Resource):
     def post(self):
         postedData = request.get_json()
 
         username = postedData['username']
         password = postedData['password']
-        adresse=postedData['adresse']
-        useremail=postedData['useremail']
+        adresse = postedData['adresse']
+        useremail = postedData['useremail']
 
         if UsersExist(useremail):
             retJson = {
                 "status": 404,
                 "message": " useremail Exist"
             }
-            return retJson,400
+            return retJson, 400
 
         users.insert({
             "username": username,
             "password": password,
-            "useremail":useremail,
-            "adresse":adresse,
-            
+            "useremail": useremail,
+            "adresse": adresse,
+
+
 
         })
         retJson = {
@@ -40,10 +42,11 @@ class Register(Resource):
             "response": {
                 "username": username,
                 "password": password,
-                "useremail":useremail,
-                "adresse":adresse
+                "useremail": useremail,
+                "adresse": adresse,
+
 
             }
         }
 
-        return jsonify(retJson,200)
+        return jsonify(retJson, 200)
