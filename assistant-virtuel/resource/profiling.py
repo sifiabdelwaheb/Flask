@@ -1,3 +1,5 @@
+import io
+import csv
 from flask import Flask, jsonify, request
 from flask_restful import Api, Resource
 from mongo_config import db
@@ -15,6 +17,11 @@ class Profiling(Resource):
         #details = twitter.find({}, {"Sentiment": 1})
 
         details = twitter.find()
+        file = open("tweetdash.csv", encoding="utf8")
+        dict_reader = csv.DictReader(file)
+        json_data = json.dumps(list(dict_reader))
+
+        #print(json_data)
 # this is cursor object
 
 # iterate over to get a list of dicts
@@ -26,6 +33,6 @@ class Profiling(Resource):
         retJson = {
             "status": 200,
             "msg": " Succes login",
-            "data": json.loads(details_json_string)
+            "data": json.loads(json_data)
         }
         return jsonify(retJson)

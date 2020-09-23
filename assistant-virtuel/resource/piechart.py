@@ -1,3 +1,4 @@
+import csv
 from collections import Counter
 from flask import Flask, jsonify, request
 from flask_restful import Api, Resource
@@ -13,18 +14,21 @@ class piechart(Resource):
         postedData = request.get_json()
 
         value = postedData["values"]
-        value=value['value']
+        value = value['value']
 
-        details = twitter.find({}, {"{}".format(value): 1})
+        #details = twitter.find({}, {"{}".format(value): 1})
         # details = twitter.find({}, {"{value}": 1})
 
-        details_dicts = [doc for doc in details]
+        #details_dicts = [doc for doc in details]
 
-# serialize to json string
-        details_json_string = json.dumps(
-            details_dicts, default=json_util.default)
+        # serialize to json string
+        # details_json_string = json.dumps(
+        #  details_dicts, default=json_util.default)
+        file = open("tweetdash.csv", encoding="utf8")
+        dict_reader = csv.DictReader(file)
+        json_data = json.dumps(list(dict_reader))
 
-        item_dict = json.loads(details_json_string)
+        item_dict = json.loads(json_data)
         # a = Counter(item_dict['data'][0])
         # print(a)
         listt = []
