@@ -276,7 +276,7 @@ tabulate==0.8.7
 tangled-up-in-unicode==0.0.6
 tb-nightly==2.1.0a20191022
 tensorboard==1.15.0
-tensorflow==1.15.0
+tensorflow==1.15.4
 tensorflow-addons==0.8.3
 tensorflow-estimator==1.15.1
 tensorflow-hub==0.7.0
