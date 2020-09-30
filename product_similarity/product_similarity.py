@@ -6,6 +6,7 @@ from resource.Similarity import Similarity
 from resource.profiling import Profiling
 from resource.moteur import Moteur
 from resource.piechart  import piechart
+from resource.sentiment import Sentiment
 
 from flask_cors import CORS
 
@@ -18,6 +19,7 @@ api.add_resource(Login, '/login')
 api.add_resource(Similarity, '/similarity')
 api.add_resource(Moteur, '/moteur')
 api.add_resource(Profiling, '/profiling')
+api.add_resource(Sentiment,'/sentiment')
 
 api.add_resource(piechart,'/piechart' )
 

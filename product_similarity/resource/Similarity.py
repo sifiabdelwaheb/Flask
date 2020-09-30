@@ -57,11 +57,17 @@ class Similarity(Resource):
         postedData = request.get_json()
 
         marque = postedData['marque']
+        marque = marque['value']
         prix = postedData['prix']
+
         ecran = postedData['ecran']
+        ecran = ecran['value']
         ram = postedData['ram']
+        ram = ram['value']
         rom = postedData['rom']
+        rom = rom['value']
         couleur = postedData['couleur']
+        couleur = couleur['value']
 
         df_test = pd.DataFrame({'marque': ["{}".format(marque)], 'name': ["Samsung M11"], 'price': [
             "{}".format(prix)], 'ecran': ["{}".format(ecran)], 'Ram': ["{}".format(ram)],
