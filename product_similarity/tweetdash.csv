@@ -1,159 +1,128 @@
 Sentiment,Followers,Location,Name,Verified,Description,Age,Gender
-Neutral,3,Location in China.,freeinfashion.com,False,"Any interesting,can contact to us!",20,male
-Neutral,796,Nigeria,Kriz communication,False,"#HOME OF QUALITY GADGETS 🛒🛒
-#Phones [ UK used & NEW ]
-#MOBILE #ACCESSORIES 
-#Games & #Accessories 
-#Smartwatches 
-#Mp3 & #Speakers
-📍KRIZ",27,male
-Neutral,40,,SmartDeal4u,False,Welcome to SmartDeal4u store!,21,male
-Neutral,140,,News Prime 101,False,We need to know the #truth,20,female
-Neutral,267,"Pretoria, South Africa",Charles Odendaal,False,"#Tech, Cross platform dev in Ionic, nodejs: pwa, ios, android, windows 10 and macOS #windows10 news",23,female
-Positive,29451,"Lagos, Nigeria",Jayeola Abass,False,"Lautech Alumni | For original smartphones & other gadgets, follow @QualityGadgets_ | For gadgets repair & servicing, follow @gidi_phones_fix |  @olamide ❤️",29,male
-Neutral,1,,URMILA,False,,20,female
-Neutral,55,,Daily Deals,False,#DailyDeals has the latest and greatest #GoldBoxDeals from @amazon & @eBay.  Thank you & Enjoy!! #Deals #DOTD,24,male
-Positive,25,,The Mall24,False,Welcome to The Mall24!,20,female
-Neutral,454,India,Smart Gizmo Deals 🛍🛒,False,Follow us for #Flipkart #Amazon #OnlineDeals - #TheBigBillionDays #AmazonPrimeDay #GreatIndianFestival #AmazonFreedomSale #NationalShoppingDays #Deals,24,female
-Neutral,5,,divinegalleria,False,Welcome to https://t.co/eTnsp1IELo. Our prime goal is to create a shop in which you can easily find whatever product you need.,21,female
-Positive,29949,USA,Dealors.com,False,Posting the lowest priced products from Amazon everyday to help you save money! “An attitude of gratitude brings amazing things.” I wish you all the very best!,28,male
-Neutral,4486,"Petaluma,CA",Ant Pruitt,False,"33% geek, 33% nerd, 33% dork. Other 1% TBD. https://t.co/E5mOO9FsI0 Host. Content creator. Knowledge sharer. Tweets are my own. #photography #FitGeek #whisky  📷📹⌨️",31,male
-Neutral,31,,PhoneyBloom,False,Welcome to PhoneyBloom store!,20,male
-Neutral,1010,Rio de janeiro,Fabricio Cavalcante,False,,27,female
-Neutral,93,,Lowell Black,False,Blogging to keep the Seventh-day Adventist Church true to what it teaches.,28,male
-Neutral,162,"Brooklyn, NY U.S.A.",Rodney Walker,False,"Rodney is CEO of Zevia, Inc., an information technology company based in New York.",27,male
-Neutral,10031,"London, England, #cloud, #SaaS",CRM_CWS_Cloud,False,LinkedIn C.F.R. Read,25,male
-Neutral,256,The Netherlands,Jeroen | TheJH 🇳🇱,False,"(he/him) A Dutch Pokémon-, darts- and Formula1 fan. Euphonium player and studying to be a translator English-Dutch. Favourite Pokémon: Flareon",24,female
-Positive,741,,NV @ Mario 3D All-Stars ☀️,False,Certified Gamer™ | 20 | Coffee addict | Full-time nerd | VGM Enthusiast | JRPG Crackhead | Patiently waiting for Bayonetta 3 | I'm bad at Smash,26,female
-Neutral,12458,"Atlanta, GA",IG: MrsBossATL,False,"CEO, Walmart Seller, Royal Ambassador & Influencer
-Managed by:
-https://t.co/xhhR70L0fm 
-Database Architect, #MBA #MITM #NSLS, Sigma Alpha",31,female
-Positive,7,,MPG GLASS PROTECTOR,False,Mobile Phone Guard screen protector is one of the largest manufacturer specializing in research development and production of tempered glass screen protector.,20,female
-Positive,443,From the Cloud,AmazonRetweetBot,False,"Just a bot that retweets tweets containing ""#Amazon"".
-| By @raphheuhh.
-| This is not an account created by Amazon.",20,male
-Positive,6,,Daniel Dome Glass,False,"Whitestone Dome Glass is approved by Samsung Mobile Accessory Partnership Program.
-SHOP https://t.co/ZJPFb7lbAQ #amazon #mobilefun #docomo",20,male
-Positive,1204,United States,AnewCellPhone.com,False,Your #1 Source For Info On New Cell Phones Read About The Latest News And Reviews on https://t.co/F4BV9eTnCP,24,male
-Neutral,90,,GadgetPiper,False,Great selection of Gadgets and Accessories at affordable prices! Free shipping to 185 countries. 45 days money back guarantee. Friendly customer service.,21,male
-Neutral,90,,GadgetPiper,False,Great selection of Gadgets and Accessories at affordable prices! Free shipping to 185 countries. 45 days money back guarantee. Friendly customer service.,21,male
-Neutral,40,,SmartDeal4u,False,Welcome to SmartDeal4u store!,21,male
-Neutral,40,,SmartDeal4u,False,Welcome to SmartDeal4u store!,21,male
-Positive,4,,MobileAndApps,False,,20,male
-Neutral,3,"Navsari, India",Urvesh R. Patel,False,"Everything is possible. I'm Non-Techie man.
+Neutral,174,,sami ibrahimi,False,,22,female
+Positive,5312,"Eldoret, Kenya",The RiftMafia® 🇰🇪,False,,20,female
+Positive,4271,Nairobi,ADOKA™,False,"Joker🤡//Writter✍️ @Tuko_co_ke// Brand Ambassodor🏷️//🤴Successful  People Look like you💯 And The Great #GGMU🔴  #JKLive 📺 
+@koinangejeff #JeffAndHamoOnHot📻",23,female
+Positive,13473,Somewhere in 🇰🇪👍🏽,𝐏𝐚𝐭𝐨𝐩𝐨𝐳𝐳𝐞 ✪︎,False,"I'm here to supply you with Content and memes, always on top👌🏽✊🏽(DM FOR ADVERTS AND PROMOS😎🤞🏽)",24,female
+Positive,22975,"Nairobi, Kenya",H.E UHURU KENYATTA,False,Parody account of the fourth and current president of the republic of Kenya and  husband to Margaret...Here to socialize with Kenyans ...I LOVE KENYA🇰🇪,20,female
+Positive,5330,"Umojamaica, Nairobi ",peddy™🍁,False,The jokes on you,22,female
+Positive,1929,,Jokopye Azenza,False,Don't care,20,female
+Positive,3528,"Mombasa, Kenya",Mcoast 🔆,False,"Pogba Fc 🤞❤️|| GGMU 🔴⚫⚪|| Dm for business,, promotions and adverts😅|| Arguing with fools makes you nothing better 😃 Be wise.",21,female
+Positive,21671,"Nairobi, Kenya",Wangar_i 🇰🇪,False,Manchester United ♥️,20,female
+Positive,5995,"Lives in Eldoret, Kenya🇰🇪",Brief_caseKE🇰🇪,False,"Gamer🎮🎮
+Stylist✌
+In love for music🎼🎵
+A manchester united die hard fan😘
+Dm for promos💯💯
+Political enthusiast",20,female
+Positive,4219,Canada,Dr. Miguna Miguna,False,"Parody Twitter # for Dr. Miguna Miguna.
+a fan and a supporter of TEAM MIGUNA 🔥👊💪💪",25,female
+Positive,1546,KejanI,bully the goat🐐,False,am here to make you have fun😄😄,20,female
+Positive,3660,Teremka na hio njia ,Mchezaji Bano😎,False,"Hasta La Vista,Baby😌😌",20,female
+Positive,1999,Nairobi,bhonke🧤,False,🍹.,20,female
+Positive,12797,stateville,Sasa Unataka Kulia😂😫,False,Twitter talkative🔥...Tweets for fun😎....Joyrider🔰...Kijana madhongo👽...KOT Chief whip🐐...Intellectual mindset😵...DM FOR PROMOS AND ADVERTS.,20,female
+Positive,9211,Parody,𝙼𝙷𝙴𝙽𝙶𝙰,False,,20,female
+Positive,18572,Los Pollos Hermanos,Elvo,False,Left-handed. Great mind ☺️.maze runner.,27,male
+Positive,9797,kibanda,SELF ESTEEM,False,𝐔𝐭𝐚𝐤𝐨𝐬𝐚 𝐚𝐣𝐞 𝐮𝐫𝐞𝐦𝐛𝐨 𝐧𝐚 𝐜𝐨𝐧𝐭𝐞𝐧𝐭 𝐚𝐜𝐡𝐚 𝐣𝐨𝐤𝐞𝐬😂 𝐇𝐔𝐌𝐁𝐋𝐄 𝐁𝐄𝐆𝐈𝐍𝐍𝐈𝐍𝐆𝐒💪𝐊𝐮𝐨𝐦𝐨𝐤𝐚 𝐲𝐚 𝐦𝐝𝐨𝐦𝐨 𝐧 𝐲𝐚𝐤𝐨👽,20,female
+Positive,9427,At home,Jeffgakuya😂,False,"Random thoughts💯💯 Dm for ads,tags and promos Manchester United❤️",22,female
+Positive,2867,"Nairobi, Kenya",Geejoe The DJ,False,"🔸The Twisting Tiger 🔸Graphic Designer 🔸
+All The Above🔸
+-Keep Calm & Don't Take Everything I Post Too Serious-",20,female
+Positive,1207,Kenya,KITUI FINEST 🖤🌂☂️,False,.....,20,female
+Positive,11860,Kenya,Billy The JOKER🙏😂,False,"#threadzajoker
+DM FOR BUSINESS AND THANK ME LATER. My services are excellent. 👌😆🙏
+#Masculinitysaturday  all the way 😍😍",22,female
+Positive,8945,"Nakuru, Kenya",Monique 😍,False,Intern/ I'm not what I tweet/Follow me/DM for Business Promo and Adverts/Quality services Guaranteed💯😍,20,female
+Positive,5174,  juja,Lewi,False,Realtor ||Don't trust the process 💯|| Dm for anything 💯|| fiver gig https://t.co/HaTOKXNa8D,21,female
+Positive,2998,bedsitter🏘️,𝙱𝚁𝙴𝙴𝚉𝚈☯︎★☆⌫,False,"passionate doctor 💉🌡️
+#KOT .|| Baraton university 📚.|| pool player||. casino freak ✌️🎰. shadddy|| Stick to your lane.||Open for promos.||•",20,female
+Positive,2715,"Los Angeles, Kenya",Lastborn Mtaita🇰🇪,False,Bully👽👽🤺🤺,20,female
+Positive,4419,Meru finest,MR RIGHT™🇰🇪,False,"SPOKEN WORD ARTIST🔥//POET/⚡/STUDENT 👩‍🎓//COMEDIAN 😂😹
+D.M FOR PROMO$🤬 AND ADS🤑
 
-Please don't Follow me. 
-If you Follow me then Give me reason, Why you followed me...",20,female
-Neutral,90,,GadgetPiper,False,Great selection of Gadgets and Accessories at affordable prices! Free shipping to 185 countries. 45 days money back guarantee. Friendly customer service.,21,male
-Positive,624,"Hyderabad, India",i5Deals,False,Follow @i5deals and Turn on Notifications For Awesome Deals/GiveAways. Mention or DM us for Promotions.,21,male
-Positive,624,"Hyderabad, India",i5Deals,False,Follow @i5deals and Turn on Notifications For Awesome Deals/GiveAways. Mention or DM us for Promotions.,21,male
-Positive,624,"Hyderabad, India",i5Deals,False,Follow @i5deals and Turn on Notifications For Awesome Deals/GiveAways. Mention or DM us for Promotions.,21,male
-Neutral,443,From the Cloud,AmazonRetweetBot,False,"Just a bot that retweets tweets containing ""#Amazon"".
-| By @raphheuhh.
-| This is not an account created by Amazon.",20,male
-Neutral,1494,대한민국 서울,WhitestonedomeglassTV,False,Galaxy note 20 is made by Samsung. Whitestone dome glass is made for Samsung. Dome glass is approved by Samsung Mobile Accessory Partnership Program.,21,female
-Neutral,37,Deutschland,Dima,False,"Ich brauche keinen 100%-igen Kapitalismus oder Sozialismus, sondern etwas menschliches dazwischen.",28,female
-Neutral,90,,GadgetPiper,False,Great selection of Gadgets and Accessories at affordable prices! Free shipping to 185 countries. 45 days money back guarantee. Friendly customer service.,21,male
-Neutral,40,,SmartDeal4u,False,Welcome to SmartDeal4u store!,21,male
-Positive,40,,SmartDeal4u,False,Welcome to SmartDeal4u store!,21,male
-Positive,21,"Sachsen, Deutschland","Produkte, News, Informationen, Testberichte",False,Produktanzeiger,21,female
-Neutral,36478,The Netherlands,SamFirmware,False,"Official Twitter account of http://t.co/JvXQhAkNxP 
-(Powered by http://t.co/SErtvLbV19)",30,female
-Neutral,12458,"Atlanta, GA",IG: MrsBossATL,False,"CEO, Walmart Seller, Royal Ambassador & Influencer
-Managed by:
-https://t.co/xhhR70L0fm 
-Database Architect, #MBA #MITM #NSLS, Sigma Alpha",31,female
-Neutral,2874,Germany,MangieS Shop⭐❤️⭐,False,We have what you deserve!. We have wide range of high quality electronics📱 that meet your need. #smartwatches #smartwatch #xiaomi #onlineshop #samsung 🤩👍💡📸,20,female
-Neutral,874,"Birnin Kebbi, Kebbi.",Mustafa Atiku,False,Standing on the shoulders of giants,29,male
-Positive,71,United States,SA Automotive,False,"Shopping Alert
-Get Alert from Popular Shopping Sites.",21,female
-Neutral,31,,PhoneyBloom,False,Welcome to PhoneyBloom store!,20,male
-Neutral,60,,SJ House,False,Welcome to SJ House store!,21,female
-Neutral,10,,Linda_letsbupro,False,i am co founder of https://t.co/HBwts76Zqx,20,male
-Neutral,685,,Gotham Hope,False,Great selection of #Batman & #DC stuff at affordable prices! Over 400 items. Free shipping to 185 countries. Great giveaways and 45 days money back guarantee.,24,female
-Neutral,685,,Gotham Hope,False,Great selection of #Batman & #DC stuff at affordable prices! Over 400 items. Free shipping to 185 countries. Great giveaways and 45 days money back guarantee.,24,female
-Positive,2804,"Kilifi, Kenya",Katama Morine😍,False,"My Random thoughts| GIRIAMA GIRL 😍
-|Be Proud and Happy as Black as you are ❤️|Black Girl Ambassador
+7× winner of the CUTEST living man🕺😎... 
+  #kotloyals",20,female
+Positive,3725,Naromoru. . ke💯,MERU.. KINGPIN👑⚡,False,mancity diehard/edm/smile strong live long✌✌✌✌,20,female
+Positive,7010,"Kenya, Africa, World ",Director🇰🇪,False,"live a free life, don't be a prisoner of your own self^^^avoid living a depressed life • m€ntal h£alth °",22,female
+Positive,18016,,Tina💞,False,"DIGITAL MARKETER||||DM open for Promos, Business and Trends||||Strictly Business.",20,female
+Positive,852,,Dan Gage,False,"Content creator, tech lover, father, and potty mouth. If you're easily offended.... Look away now. business email modrndad@gmail.com",21,female
+Positive,118,,Cursor Suppliers,False,"Cursor Suppliers we do supply of Desktops Computers , Monitors, Printers, Smartphones, Projectors and all your It products",20,male
+Positive,355,Accra-Ghana ,Umar Ismail,False,A True Blue . Am Chelsea  through and through #Cfc,25,male
+Neutral,328,INDIA,Sheshnath Chauhan,False,,26,male
+Neutral,107,,SHESHNATH,False,,22,female
+Positive,799,"Bangalore, India",Auto World Mag,False,"Car lover, Bangalorean!",27,male
+Positive,175,,What Digital,False,What Digital is the data source for the What Digital iOS App. Check out our apps at http://t.co/n9oTrvJfmr,27,male
+Positive,100,"New York, USA",Tweet4Mee,False,Automated Content Directly to your news feed. Contact us at tweetfourmee@gmail.com for more information!,24,female
+Positive,44,"Michigan, USA",Cody Merryman,False,Just being a good friend.,27,male
+Positive,2443,🌏,A J,False,Patience got limit!,26,female
+Neutral,2,,Sonia-lisa,False,,20,female
+Positive,74435,"Mountain View, California",9to5Google.com,False,"#madebygoogle #teampixel We break news on Alphabet, Google, Android, Pixel, Home, Chrome, and more, every day. Have a news tip for us? tips@9to5g.com",30,male
+Positive,2432,"Delta, Nigeria",F❤R💙E💫D💧A🇬🇭,False,IG: fre_.daa // Snapchat: phreda25 // Telegram: @YaaBaby_SB Hala Madrid,20,female
+Neutral,39,,Ing,False,,21,male
+Neutral,7,Napoli,Sabatino Mocerino,False,,25,male
+Neutral,212,"Nashville, TN",iConvertwireless,False,"iConvertwireless specializes in converting iPhones, Androids, and other phones from expensive post-paid plans to cost effective monthly plans.",28,male
+Positive,177,,mikyrola,False,nbia swo,20,female
+Positive,617,The Dream,ik,False,"🇬🇭🇳🇬
+👇
+https://t.co/xoX9SiybYk",22,male
+Neutral,3784,Sabina joy,Mboko Halal,False,I am not my tweets| #PumPumMechanic| #AllStar,29,male
+Positive,2255,🕋🕋,NORTH YOUR MATE 🇱🇾🇳🇬,False,"I'm not an actor,rapper,aspiring celebrity or whatever silly sh*t niggas lie about!, no team, just 1 volatile gentleman!",22,female
+Positive,513,"Veneto, Italy",@GhaItalian_barbie🇬🇭🇮🇹,False,unapologetically black and fucken beautiful 🦋🌈,20,female
+Positive,4872,AFRICA,Henderson🍿🍿,False,Manchester United❤️ Dm for promo / @besthypers,21,female
+Positive,107,"usa, Florida",Jeena Sara,False,i am a simple girl with beautiful complications.,20,female
+Positive,266,"Accra, Ghana",Head dancer 🌜,False,My level of tolerance,20,female
+Positive,3,,Vincenzo Gasbarro,False,,22,male
+Positive,3,,Vincenzo Gasbarro,False,,22,male
+Positive,377,,Friendly neighbourhood Panda,False,Just a normal everyday shonen that enjoys anime n all things awesome.... currently trying to cross the boundaries of normal n abnormal lifestyle XD,27,female
+Positive,39,"Khurta, Alkane, Alisma, X",Kaiser Squid,False,we evoker now,25,male
+Positive,107,"Paris, France",Alain Danteny,False,"Tech addict: phones, laptops, NUCs, IoT, medical devices and wearables.",26,female
+Positive,105,India,Nitin Rawat,False,"Indian Wildlife Enthusiast #IncredibleIndia #DekhoApnaDesh
+Twitch #nitinrawat71 Trovo, TG & Discord #ChangRWT #LegitFAM",22,male
+Neutral,22180,"Community of Valencia, Spain",TechTablets 🇳🇿,False,In-depth tech reviews since 2013. Tech review YouTube channel with over 344k subs and 102 million views https://t.co/Qx4OzrRudT,24,female
+Neutral,5,"Georgia, USA",AlexMyford,False,"Just a fun loving, animal caring type of guy.",23,male
+Positive,2731,Tema/Accra/Ghana,KaY WeLlY👽💯,False,"||@stonebwoyb is my DNA||
+||A proud Bhimnative||
+||Music fun||
+||wilsonkingsford15@gmail.com||",21,female
+Positive,130,,berry nanayaw,False,Bl**k_berry,20,male
+Neutral,392,"Quezon City, National Capital ",xxIshinxx,False,"Nothing, just searching for some things ...",24,female
+Positive,2451,,UNCLE ATO,False,#   st anthony's school# bl3oobi# i luv chelsea. Respect for every Human is key to me,28,female
+Positive,460,,#ShattaWaleAceHood(Assin Central SM),False,,21,female
+Neutral,29881,USA,Dealors.com,False,Posting the lowest priced products from Amazon everyday to help you save money! “An attitude of gratitude brings amazing things.” I wish you all the very best!,28,male
+Positive,5489,@solegit_inc,️,False,,30,female
+Positive,1426,"Kumasi, Ghana",Luther,False,Seventh-day Adventist // a Bob Marley aficionado // environmentalist // Chelsea FC // Asante Kotoko SC,22,male
+Positive,359,"Bronx, NY",Bambala Beans 💀🤮,False,Akosua💖/Be a proton always positive//Kwesi Arthur 🤩//Liverpool,20,female
+Positive,8983,🇬🇭,ßernard🖤,False,You really don't know me... lol♥️ I do photoshop 📸,22,female
+Positive,208,"Cape Coast, Ghana",LeoFly💪🏾💪🏾👊🏽,False,"change your words, Change the world",29,female
+Neutral,1594,Cornwall,Naftee,False,"44-year-old personal trainer. enjoys hockey. Cornish. #bisexual. Lovable and considerate, but can also be very unintelligent and a bit sneaky. Currently Single.",30,female
+Positive,2103,Ghana,Red,False,I am me .....🤤,22,male
+Positive,10187,,STARLIVIN'.✰,False,⚠️🚧,21,female
+Positive,2656,,Henry🕯,False,Hello Attaboy 🥶✊🏾,20,female
+Positive,82,,Balogun Oladimeji,False,"Real Madrid hard fans, like too been alone, temper person",20,female
+Positive,188,Nairobi,Amoh Chege,False,,27,female
+Positive,5285,🤔🤔🤔,Ť Ø @ § Ț,False,,22,female
+Positive,120151,,Nungua Burnaboy,False,A tweet in every 5 minutes will keep the followers away. DM FOR PROMOS📌,21,female
+Positive,5760,Spain,J.M BILL_GATES 💰 ⚪️,False,"The Youngest Richest Man 💰 
+SON OF MR. BILL GATES 
 
-TURN ON POST NOTIFICATION 🔴
-
-Pure Madridsta⚪",20,female
-Neutral,783,"Orlando, FL",Feed You Deals,False,"Bringing you around the clock deals directly to your Twitter timeline!
-#deals #flashsales #bargains #sale #ads #RT
-Participant in retailer associate programs",23,male
-Neutral,313,athens,Vassilis Moulakakis,False,M.Sc. city university,31,male
-Neutral,3004,"Brooklyn, NY",Rodney Walker,False,"Rodney is CEO of Zevia, Inc., an information technology company based in New York.",32,male
-Neutral,655381,,FutureShift,True,"Tech news from @Mashable. Obsessed w/ the innovations, products, and people who shape our connected lives. Sign up for our newsletter: https://t.co/W5Tbc4Nk0o",30,male
-Positive,6,Doha - Qatar,Electronyat.qa,False,Defining Digital Lifestyle. To serve the consumers in Qatar with Genuine electronic gadgets with unmatched services at competitive prices.,20,female
-Neutral,12458,"Atlanta, GA",IG: MrsBossATL,False,"CEO, Walmart Seller, Royal Ambassador & Influencer
-Managed by:
-https://t.co/xhhR70L0fm 
-Database Architect, #MBA #MITM #NSLS, Sigma Alpha",31,female
-Neutral,624,"Hyderabad, India",i5Deals,False,Follow @i5deals and Turn on Notifications For Awesome Deals/GiveAways. Mention or DM us for Promotions.,21,male
-Positive,1204,United States,AnewCellPhone.com,False,Your #1 Source For Info On New Cell Phones Read About The Latest News And Reviews on https://t.co/F4BV9eTnCP,24,male
-Neutral,36478,The Netherlands,SamFirmware,False,"Official Twitter account of http://t.co/JvXQhAkNxP 
-(Powered by http://t.co/SErtvLbV19)",30,female
-Neutral,36478,The Netherlands,SamFirmware,False,"Official Twitter account of http://t.co/JvXQhAkNxP 
-(Powered by http://t.co/SErtvLbV19)",30,female
-Neutral,36478,The Netherlands,SamFirmware,False,"Official Twitter account of http://t.co/JvXQhAkNxP 
-(Powered by http://t.co/SErtvLbV19)",30,female
-Neutral,36478,The Netherlands,SamFirmware,False,"Official Twitter account of http://t.co/JvXQhAkNxP 
-(Powered by http://t.co/SErtvLbV19)",30,female
-Neutral,36478,The Netherlands,SamFirmware,False,"Official Twitter account of http://t.co/JvXQhAkNxP 
-(Powered by http://t.co/SErtvLbV19)",30,female
-Neutral,36478,The Netherlands,SamFirmware,False,"Official Twitter account of http://t.co/JvXQhAkNxP 
-(Powered by http://t.co/SErtvLbV19)",30,female
-Neutral,36478,The Netherlands,SamFirmware,False,"Official Twitter account of http://t.co/JvXQhAkNxP 
-(Powered by http://t.co/SErtvLbV19)",30,female
-Neutral,36478,The Netherlands,SamFirmware,False,"Official Twitter account of http://t.co/JvXQhAkNxP 
-(Powered by http://t.co/SErtvLbV19)",30,female
-Neutral,36478,The Netherlands,SamFirmware,False,"Official Twitter account of http://t.co/JvXQhAkNxP 
-(Powered by http://t.co/SErtvLbV19)",30,female
-Neutral,36478,The Netherlands,SamFirmware,False,"Official Twitter account of http://t.co/JvXQhAkNxP 
-(Powered by http://t.co/SErtvLbV19)",30,female
-Neutral,36478,The Netherlands,SamFirmware,False,"Official Twitter account of http://t.co/JvXQhAkNxP 
-(Powered by http://t.co/SErtvLbV19)",30,female
-Neutral,36478,The Netherlands,SamFirmware,False,"Official Twitter account of http://t.co/JvXQhAkNxP 
-(Powered by http://t.co/SErtvLbV19)",30,female
-Neutral,36478,The Netherlands,SamFirmware,False,"Official Twitter account of http://t.co/JvXQhAkNxP 
-(Powered by http://t.co/SErtvLbV19)",30,female
-Neutral,36478,The Netherlands,SamFirmware,False,"Official Twitter account of http://t.co/JvXQhAkNxP 
-(Powered by http://t.co/SErtvLbV19)",30,female
-Positive,318,"Florida, USA",Retro Gaming Star,False,my name is Lavon Gill AKA Retro  Gaming Star and I love video games from both the Retro and modern era and Japanese anime and manga from Shonen Jump.,22,male
-Neutral,685,,Gotham Hope,False,Great selection of #Batman & #DC stuff at affordable prices! Over 400 items. Free shipping to 185 countries. Great giveaways and 45 days money back guarantee.,24,female
-Positive,1452,Happy place ,Vee🥰,False,Here for Fun ❤,20,female
-Neutral,1737,Atlanta,Douglas Holtzman,False,CURRENT: VP Business Development @sportsdigita PAST: @NFL @MLB @NBA @IMG @AFLarenaball @MediaBrokersInt @ONtracapp ALUM: #Kansas #NIU INTEREST: #sportsbiz #tech,29,male
-Neutral,977,,Mr Shamsudeen,False,NIGERIAN.,29,male
-Neutral,2560,Nigeria,Ibrahim Oga,False,"Treasure. Human. Thinker.
-
-Creative writer @_Channillo Digital Editor (Poetry) @Randomphjournal Film reviewer.",29,female
-Neutral,832,PENITENTIARY,J.J,False,Finance enthusiasts | God’s Son| Family ❤️| Manchester United ❤️| Liberal| Equity Advocate.,30,female
-Neutral,832,PENITENTIARY,J.J,False,Finance enthusiasts | God’s Son| Family ❤️| Manchester United ❤️| Liberal| Equity Advocate.,30,female
-Neutral,8024,India,DealBee,False,"Bringing best online deals throughout the day. Saving your time while you save your money. 
-
-Follow us for best #Looto #deals #offers & #giveaway alerts!",25,female
-Neutral,783,"Orlando, FL",Feed You Deals,False,"Bringing you around the clock deals directly to your Twitter timeline!
-#deals #flashsales #bargains #sale #ads #RT
-Participant in retailer associate programs",23,male
-Neutral,36478,The Netherlands,SamFirmware,False,"Official Twitter account of http://t.co/JvXQhAkNxP 
-(Powered by http://t.co/SErtvLbV19)",30,female
-Neutral,36478,The Netherlands,SamFirmware,False,"Official Twitter account of http://t.co/JvXQhAkNxP 
-(Powered by http://t.co/SErtvLbV19)",30,female
-Neutral,205,,Selim Sahin,False,Awesome Dad,28,male
-Neutral,685,,Gotham Hope,False,Great selection of #Batman & #DC stuff at affordable prices! Over 400 items. Free shipping to 185 countries. Great giveaways and 45 days money back guarantee.,24,female
-Neutral,47162,"Dubai, UAE",Axiom UAE,True,"The official axiom Telecom UAE Twitter account. axiom is the largest retailer and distributor in the Middle East for mobile phones, tablets & operator services.",30,female
-Positive,12047,🇰🇪,Kevin Moishyleez,False,"AN ECONOMIST AND A HUMANITARIAN.
-FACEBOOK: Kevin Moishyleez
-I.G:kevin_moishyleez
-
-TEL: +254703970958.",21,male
-Neutral,7,,DollaFin,False,Welcome to DollaFin Store!,20,male
-Neutral,40,,SmartDeal4u,False,Welcome to SmartDeal4u store!,21,male
-Neutral,40,,SmartDeal4u,False,Welcome to SmartDeal4u store!,21,male
-Neutral,36478,The Netherlands,SamFirmware,False,"Official Twitter account of http://t.co/JvXQhAkNxP 
-(Powered by http://t.co/SErtvLbV19)",30,female
-Neutral,36478,The Netherlands,SamFirmware,False,"Official Twitter account of http://t.co/JvXQhAkNxP 
-(Powered by http://t.co/SErtvLbV19)",30,female
-Positive,12910,Kenya,Kiilu Kutoka Kitui,False,The Most Creative KOT 😂 Money Lover 🤑 DM for Business 🤑,21,female
-Positive,37,,AKIA Shopping,False,Welcome to AKIA Shopping store!,20,male
+@Barcelonafun ⚽ @Bellatwins 😍 
+music lover 🎶 🎤 I love R. Lukaku ⚽",24,female
+Neutral,1241,,Brando,False,https://t.co/UZLvUYwiaj,31,male
+Neutral,1241,,Brando,False,https://t.co/UZLvUYwiaj,31,male
+Positive,1088,Ghana,ben pinto,False,Strive  for Greatness 💫 ||COYG||,24,male
+Negative,2150,"Texas, USA",Brian,False,Master of gimmick RuneScape PvM. Avid Nintendo/RPG fan. Does the Twitch/YouTube thing.,27,male
+Positive,1495,,Jason W,False,"New account from @jmwiltjer.
+Mechanical engineering student graduating in Spring of 2021.",20,female
+Positive,807,"Birmingham, England",Supernaut,False,Metalhead. Bass. Ex sysadmin now infosec old timer. GRC. Managed Service Provider Bullshit Detection & Response. UTV.,21,male
+Positive,3996,,Why always me,False,,22,female
+Positive,6244,"Doha, Qatar",Anith Gopal,False,"IT Consultant at @kataraqatar, IT Manager, CISO & Infrastructure and Information Security Professional. Rocking life with @SiniAnith from #Doha #Qatar",32,male
+Neutral,394,,Pehal News,False,Your Awareness Is Our Responsibility! Official Twitter Handle Of Pehal News!!,20,male
+Positive,71519,,9to5Toys,False,"We've got gadgets, gear and the best deals on the web",31,male
+Neutral,16,,EpikBOP,False,6 finger claw fortnite mobile player,20,female
+Neutral,7,London,Arron Next,False,,23,male
+Positive,756,"Greater Accra, Ghana",☘️Sena🦅,False,God is the Greatest || Boston Celtics fan 🍀🏀 #BleedGreen,23,female
+Positive,118,,Cursor Suppliers,False,"Cursor Suppliers we do supply of Desktops Computers , Monitors, Printers, Smartphones, Projectors and all your It products",20,male
+Neutral,12155,"Summerside, PEI, Canada",☕ J. B. Rainsberger,False,"(he) Swede stuck in a Canadian's body. Barista. 5-pin Bowler. Trusted adviser. Agile Coach, but actually Agile and actually a Coach. Friend. https://t.co/ghyWSWqyrX",32,male
+Positive,3733,"Ho, Ghana",Zappa 👨‍🔬🇬🇭🇩🇪,False,Proverbs 1:10,23,female
+Positive,312,,....,False,idk :/,24,female
+Positive,1735,Somewhere cold,V i C k Y,False,The hate u give || Anneonghaesoyo😊,20,female

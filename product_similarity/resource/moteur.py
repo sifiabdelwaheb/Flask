@@ -175,7 +175,8 @@ class Moteur(Resource):
                 break
 
         clean_link = clean_url(links)
-        jumia = [url_to_transcript1(u) for u in clean_link[:3]]
+        print("clean liiiiiiink",len(clean_link))
+        jumia = [url_to_transcript1(u) for u in clean_link[:1]]
 
         Name = []
         Deatils = []
@@ -214,7 +215,7 @@ class Moteur(Resource):
         df["Avis"] = clean_numcommentaire
         df["caracterstique"] = clean_carac
         df["deescriptive"] = clean_description
-        df.to_csv(f"{product}.csv", index=False, header=True)
+        df.to_csv("testmoteur.csv", index=False, header=True)
 
         retJson = {
             "status": 200,

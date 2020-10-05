@@ -129,4 +129,4 @@ class Sentiment(Resource):
             }
         }
 
-        return jsonify(retJson, 200)
+        return jsonify(retJson)
